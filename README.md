@@ -40,7 +40,7 @@ rnd.boolean()
 ### Get random characters
 ```javascript
 rnd.char(5)
-// return string with 5 alphanumeric characters (mixed lowercase and uppercase)
+// return string with 5 alphabetical characters (mixed lowercase and uppercase)
 ```
 
 ### Playing with arrays
