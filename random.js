@@ -1,5 +1,6 @@
 (function() {
 
+	// Export to global scope
 	window.random = rnd;
 
 	// METHODS
